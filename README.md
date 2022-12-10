@@ -127,6 +127,6 @@ Preencha o dict ```lucky_numbers``` com os nomes e os respectivos números da 
     </tr>
   </tbody>
 </table>
+
 ## ATENÇÃO:
 Esta brincadeira não aumenta nem diminui suas chances de acertar na Mega da VIRADA™. Trata-se APENAS de uma brincadeira com a linguagem de programação Python.
-
