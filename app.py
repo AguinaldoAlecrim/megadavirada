@@ -33,4 +33,3 @@ headers = [
 
 megasena = pd.DataFrame(numbers, index=jogos, columns=headers)
 print(megasena.to_markdown(tablefmt="grid"))
-print(megasena.to_html('teste.html'))
