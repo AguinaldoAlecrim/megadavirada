@@ -22,7 +22,8 @@ pip install -r requirements.txt
 
 ## Uso
 Preencha o dict ```lucky_numbers``` com os nomes e os respectivos números da sorte de cada participante (do bolão). A aplicação irá somar todos os números da sorte de cada participante (dando uma ilusão de que cada um está contribuindo para o acerto 🤣🤣🤣) Feito isso, basta executar ```python app.py``` (presumindo-se que o nome do arquivo que contem o script é "app.py" e se está na mesma pasta do script).
-## Exemplo de resultado:<table border="1" class="dataframe">
+## Exemplo de resultado:
+<table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
       <th></th>
